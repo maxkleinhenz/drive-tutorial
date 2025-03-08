@@ -1,5 +1,7 @@
 # Drive Tutorial
 
+[https://www.youtube.com/watch?v=c-hKSbzooAg](https://www.youtube.com/watch?v=c-hKSbzooAg)
+
 ## TODO
 
 - [ ] Set up database and data model
